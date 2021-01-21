@@ -33,6 +33,6 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-ap
 # git clone https://github.com/jerrykuku/luci-app-ttnode.git package/luci-app-ttnode
 git clone https://github.com/garypang13/luci-app-bypass.git package/luci-app-bypass
 # git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
-# git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
+git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
 # git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
 
